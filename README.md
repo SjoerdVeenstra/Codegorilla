@@ -1,2 +1,0 @@
-# Codegorilla
-CG Bootcamp
